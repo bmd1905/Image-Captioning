@@ -5,5 +5,7 @@ In this project, I'll use [Flickr 8k dataset](https://www.kaggle.com/datasets/ad
 For instance:
 ![image](https://miro.medium.com/max/1400/1*6BFOIdSHlk24Z3DFEakvnQ.png)
 
+## Reference
+[QUADEER SHAIKH: Flickr8K Image Captioning](https://github.com/quadeer15sh/Flickr8K-Image-Captioning/blob/a3e31d345d5260980a653245c07e492bd4cdfb06/flickr8k-image-captioning-using-cnns-lstms.ipynb)
 
 
