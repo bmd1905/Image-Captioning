@@ -21,7 +21,7 @@ The words in a sentence are separated/tokenized and encoded in a one hot represe
 
 # 4. Image Feature Extraction
 I used the VGG16 model (without the last layer) to extract features all the images in the dataset. 
-This process is offline learning, which means we can extract before trained model, all features were stored in a Pickle file (features.pickle).
+This process is offline learning, which means we can extract before trained model, all features were stored in a Pickle file (features.pkl).
 
 # 5. Modeling
 The image embedding representations are concatenated with the first word of sentence ie. <starseq> and passed to the LSTM network.
