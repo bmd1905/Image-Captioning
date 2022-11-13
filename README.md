@@ -27,7 +27,7 @@ The LSTM network starts generating words after each input thus forming a sentenc
 
 
 A slight change has been made in the original model architecture to push the performance. The image feature embeds are added to the output of the LSTMs and then passed on to the fully connected layers.
-This slightly improves the performance of the model originally proposed back in 2014: Show and Tell: A Neural Image Caption Generator [](arxiv.org/pdf/1411.4555.pdf)
+This slightly improves the performance of the model originally proposed back in 2014: Show and Tell: A Neural Image Caption Generator [arxiv.org/pdf/1411.4555.pdf](arxiv.org/pdf/1411.4555.pdf)
 
 
 
